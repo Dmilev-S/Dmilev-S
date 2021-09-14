@@ -1,5 +1,5 @@
 
-***Dmitriy Skvortsov***
+# Dmitriy Skvortsov
 
 <!---
 Dmilev-S/Dmilev-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
